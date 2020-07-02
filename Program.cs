@@ -13,7 +13,7 @@ namespace searchrep
             Console.WriteLine("Please enter a string to replace the given substring: ");
             string _stringReplacer = Console.ReadLine();
 
-            Console.WriteLine("Output is " + replacer(_initialString, _subString, _stringReplacer));
+            Console.WriteLine("Your new string is " + replacer(_initialString, _subString, _stringReplacer));
         }
 
         public  static string replacer(string str, string subStr, string strRep){

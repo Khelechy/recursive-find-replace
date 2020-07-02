@@ -1,0 +1,13 @@
+/home/khelechy/projects/c#/searchrep/obj/Debug/netcoreapp3.1/searchrep.csprojAssemblyReference.cache
+/home/khelechy/projects/c#/searchrep/obj/Debug/netcoreapp3.1/searchrep.AssemblyInfoInputs.cache
+/home/khelechy/projects/c#/searchrep/obj/Debug/netcoreapp3.1/searchrep.AssemblyInfo.cs
+/home/khelechy/projects/c#/searchrep/obj/Debug/netcoreapp3.1/searchrep.csproj.CoreCompileInputs.cache
+/home/khelechy/projects/c#/searchrep/bin/Debug/netcoreapp3.1/searchrep
+/home/khelechy/projects/c#/searchrep/bin/Debug/netcoreapp3.1/searchrep.deps.json
+/home/khelechy/projects/c#/searchrep/bin/Debug/netcoreapp3.1/searchrep.runtimeconfig.json
+/home/khelechy/projects/c#/searchrep/bin/Debug/netcoreapp3.1/searchrep.runtimeconfig.dev.json
+/home/khelechy/projects/c#/searchrep/bin/Debug/netcoreapp3.1/searchrep.dll
+/home/khelechy/projects/c#/searchrep/bin/Debug/netcoreapp3.1/searchrep.pdb
+/home/khelechy/projects/c#/searchrep/obj/Debug/netcoreapp3.1/searchrep.dll
+/home/khelechy/projects/c#/searchrep/obj/Debug/netcoreapp3.1/searchrep.pdb
+/home/khelechy/projects/c#/searchrep/obj/Debug/netcoreapp3.1/searchrep.genruntimeconfig.cache

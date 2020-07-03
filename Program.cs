@@ -18,15 +18,20 @@ namespace searchrep
 
         public  static string replacer(string str, string subStr, string strRep){
 
-            if (str.Length <= 1) { 
+            if (!str.Contains(subStr)) { 
                 return str; 
             } 
 
-            if(str.StartsWith(subStr))
-                return strRep + replacer(str.Substring(subStr.Length, str.Length - subStr.Length), subStr, strRep);
-            else{
-                return str[0] + replacer(str.Substring(1, str.Length - 1), subStr, strRep);
-            }
+            // if(str.StartsWith(subStr))
+            //     return strRep + replacer(str.Substring(subStr.Length, str.Length - subStr.Length), subStr, strRep);
+            // else{
+            //     return str[0] + replacer(str.Substring(1, str.Length - 1), subStr, strRep);
+            // }
+
+            return replacer(
+                str.Replace(subStr, strRep),
+                subStr,
+                strRep);
         }
     }
 }
